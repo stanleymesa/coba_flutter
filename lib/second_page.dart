@@ -24,7 +24,7 @@ class SecondPage extends StatelessWidget {
             Align(
               alignment: Alignment.topCenter,
               child: Container(
-                width: MediaQuery.of(context).size.width * 0.75,
+                width: MediaQuery.of(context).size.width * 0.70,
                 height: MediaQuery.of(context).size.height * 0.6,
                 margin: EdgeInsets.only(top: 24),
                 child: Card(
